@@ -1,0 +1,63 @@
+body {
+  width: 800px;
+  text-align: center;
+}
+.work-pic {
+  margin-top: 10px;
+}
+header {
+}
+nav {
+  background-color: rgb(4, 4, 184);
+  padding: 10px;
+  text-align: center;
+}
+.button {
+  background-color: white;
+  color: color: rgb(4, 4, 184);
+  text-align: center;
+  margin: 15px 25px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  border: none;
+}
+.button:hover {
+  background-color: rgb(198, 198, 198);
+  color: white;
+}
+  a {
+  color: rgb(4, 4, 184);
+}
+.whom {
+  margin-top: 15px;
+}
+h1 {
+  color: rgb(4, 4, 184);
+  text-shadow: 2px 2px #a00101fc;
+  margin-bottom: 25px;
+}
+h2 {
+  color: rgb(4, 4, 184);
+}
+h3 {
+  text-align: center;
+  color: rgb(4, 4, 184);
+}
+.photo-text {
+  padding-bottom: 25px;
+  border-bottom-style: dashed;
+  border-bottom-color: rgb(4, 4, 184);
+  border-bottom-width: 3px;
+}
+.conc-header {
+  text-align: center;
+  color: rgb(4, 4, 184);
+}
+footer {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(4, 4, 184);
+  border-bottom-width: 7px;
+}
